@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Aiham!
 
-<!--
-**MrADGit/MrADGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Mechanical Engineering Student | CAD | Simulation | Programming & AI
 
-Here are some ideas to get you started:
+I'm a Mechanical Engineering student at Trier University of Applied Sciences (Hochschule Trier), Germany.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about engineering, technology, and exploring how programming and artificial intelligence can improve engineering processes.
+
+## About Me
+
+- 🎓 Studying Mechanical Engineering with a focus on Automotive Engineering
+- 📍 Based in Trier, Germany
+- 🔧 Interested in mechanical design, CAD, and engineering simulations
+- 💻 Exploring programming, automation, and AI applications
+- 🚀 Interested in developing practical engineering and software projects
+
+## Technical Interests
+
+- **Engineering:** Mechanical Design, Automotive Engineering, CAD
+- **Simulation:** Finite Element Analysis (FEA), Abaqus
+- **Programming:** Python, Git, GitHub
+- **Technology:** Artificial Intelligence, Automation
+
+## Currently Learning
+
+- Python programming and software development
+- Git and GitHub workflows
+- Finite Element Analysis and simulation methods
+- AI-assisted engineering tools
+
+## My Goals
+
+- Combine mechanical engineering with software development
+- Build practical engineering tools and automation projects
+- Improve my programming skills
+- Collaborate on interesting technical projects
+
+---
+
+*Always learning, building, and improving.*
